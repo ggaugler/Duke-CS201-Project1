@@ -1,0 +1,24 @@
+This is analysis.txt
+Replace this line with your name
+Replace this line with your netid
+
+Copy/paste the output of your simulation when using planets.txt,
+running the simulation for 1,000,000 (one  million) seconds, and
+with a time-step/dt value of 25,000
+
+(replace with copy/paste)
+
+Copy/paste the output of your simulation when using planets.txt,
+running the simulation for 2,000,000 (two  million) seconds, and
+with a time-step/dt value of 25,000
+
+(replace with copy/paste)
+
+Run the simulation for a billion seconds (10^9) and a time-step/dt
+of a million. You should see behavior inconsistent with what is
+expected for celestial bodies. This is due to large values of dt
+when approximating forces. Write down below what you see during
+this simulation.
+
+(replace with observed behavior)
+
