@@ -1,4 +1,4 @@
-# Duke-CS201-Project2
+# Duke-CS201-Project1
 
 From the assignment description:
 
